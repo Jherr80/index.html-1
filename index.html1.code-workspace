@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Treact"
+		},
+		{
+			"path": "../../../Downloads/index.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html1"
+	}
+}
